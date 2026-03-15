@@ -20,6 +20,4 @@
 - Mejorando mis proyectos backend
 - Buscando oportunidades como desarrollador junior
 
-## Contacto
 
-GitHub: https://github.com/brgodch
