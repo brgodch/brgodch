@@ -1,4 +1,3 @@
-# Hola, soy Bryan 👋
 
 💻 Desarrollador de Software en formación  
 🎓 Estudiante de Ingeniería de Sistemas  
