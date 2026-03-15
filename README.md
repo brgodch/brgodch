@@ -1,6 +1,6 @@
 
 💻 Desarrollador de Software en formación  
-🎓 Estudiante de Ingeniería de Sistemas  
+🎓 Estudiante de Ingeniería de Software (ISIL) 
 🚀 Enfocado en desarrollo Backend
 
 ## Tecnologías
