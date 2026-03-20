@@ -8,7 +8,7 @@
 - Java
 - Spring Boot
 - C#
-- ASPNET
+- ASP.NET
 - SQL Server
 - Power BI
 - Git
