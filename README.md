@@ -15,7 +15,6 @@
 
 ## Actualmente
 
-- Aprendiendo más sobre APIs REST
 - Mejorando mis proyectos backend
 - Buscando oportunidades como desarrollador junior
 
