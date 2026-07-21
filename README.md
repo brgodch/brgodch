@@ -13,9 +13,6 @@
 - Power BI
 - Git
 
-## Actualmente
 
-- Mejorando mis proyectos backend
-- Buscando oportunidades como desarrollador junior
 
 
