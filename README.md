@@ -6,12 +6,14 @@
 ## Tecnologías
 
 - Java
-- Spring Boot
+- Spring
 - C#
 - ASP.NET
 - SQL Server
 - Power BI
 - Git
+- Angular
+- TS
 
 
 
